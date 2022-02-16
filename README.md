@@ -1,0 +1,1 @@
+# Пример репозитория, использующего ReflektTest kotlin compiler plugin
